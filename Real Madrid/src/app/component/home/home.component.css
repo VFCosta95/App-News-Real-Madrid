@@ -1,0 +1,12 @@
+.box-1{
+    width: 80%;
+}
+
+.box-2{
+    width: 20%;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+}

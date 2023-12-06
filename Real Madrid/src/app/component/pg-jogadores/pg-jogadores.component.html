@@ -1,0 +1,20 @@
+<app-menu></app-menu>
+<section>
+    <div class="img">
+        <h1>Elenco 22/23</h1>
+    </div>
+    
+    <div class="container-fluid">
+        
+        <div class="row">
+
+            <div class="box" *ngFor="let i of Players">
+                <h2>{{i.Nome}}</h2>
+                <img src="{{i.Image}}" alt="Photo" style="border-radius: 16px; border: solid 4px goldenrod;">
+            </div>
+
+        </div>
+    </div>
+</section> 
+<br><br>
+<app-footer></app-footer>

@@ -1,0 +1,16 @@
+<div class="container-fluid">
+    <h1>Idolos</h1>
+    <div class="row">
+      
+        <div class="to-box">
+
+            <div class="line col-sm-12 col-md-8 col-lg-9 m-auto" *ngFor="let i of theBest" >
+                
+                <img src="{{ i.photo }}" alt="">
+                <h2>{{ i.nome }}</h2>
+                <p>{{ i.desc }}</p>
+            </div>
+           
+        </div>
+    </div>
+</div>

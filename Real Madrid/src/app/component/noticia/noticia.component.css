@@ -1,0 +1,41 @@
+.box{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    width: 80%;
+    margin: 20px;
+}
+.box-img{
+    width: 40%;
+    margin-right: 40px;
+}
+h1{
+    margin-bottom: 20px;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    text-align: center;
+    margin-bottom: 40px ;
+    padding: 40px;
+    font-size: 100px;
+    text-transform: uppercase;
+    background-image: url(https://a.espncdn.com/photo/2023/0914/r1224411_1296x518_5-2.jpg);
+    color: whitesmoke;
+    letter-spacing: 5px;
+    font-weight: bolder;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(40, 40, 40);
+}
+
+img{
+    width: 350px;
+}

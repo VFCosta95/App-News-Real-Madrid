@@ -1,0 +1,124 @@
+{
+    "Jogadores": [
+        {
+            "nome": "Courtois",
+            "idade":"31",
+            "nation":"Belgica",
+            "numero": 1,
+            "position":"Goleiro",
+            "photo":"https://api.sofascore.app/api/v1/player/70988/image"
+        },
+        {
+            "nome": "Alaba",
+            "idade":"30",
+            "nation":"Austria",
+            "numero": 4,
+            "position":"Zaguerio",
+            "photo":"https://api.sofascore.app/api/v1/player/66492/image"
+        },
+        {
+            "nome": "Eder Militão",
+            "idade":"25",
+            "nation":"Brasil",
+            "numero": 3,
+            "position":"Zaguerio",
+            "photo":"https://api.sofascore.app/api/v1/player/822519/image"
+        },
+        {
+            "nome": "Rudiguer",
+            "idade":"30",
+            "nation":"Alemanha",
+            "numero": 22,
+            "position":"Zaguerio",
+            "photo":"https://api.sofascore.app/api/v1/player/142622/image"
+        },
+        {
+            "nome": "Carvajal",
+            "idade":"31",
+            "nation":"Espanha",
+            "numero": 2,
+            "position":"Lateral",
+            "photo":"https://api.sofascore.app/api/v1/player/138572/image"
+        },
+        {
+            "nome": "Mendy",
+            "idade":"28",
+            "nation":"França",
+            "numero": 23,
+            "position":"Lateral",
+            "photo":"https://api.sofascore.app/api/v1/player/792073/image"
+        },
+        {
+            "nome": "Modric",
+            "idade":"37",
+            "nation":"Croacia",
+            "numero": 10,
+            "position":"Meio-Campo",
+            "photo":"https://api.sofascore.app/api/v1/player/15466/image"
+        },
+        {
+            "nome": "Kross",
+            "idade":"33",
+            "nation":"Alemanha",
+            "numero": 8,
+            "position":"Meio-Campo",
+            "photo":"https://api.sofascore.app/api/v1/player/26502/image"
+        },
+        {
+            "nome": "Valverde",
+            "idade":"24",
+            "nation":"Uruguai",
+            "numero": 15,
+            "position":"Meio-Campo",
+            "photo":"https://api.sofascore.app/api/v1/player/831808/image"
+        },
+        {
+            "nome": "Camavinga",
+            "idade":"20",
+            "nation":"França",
+            "numero": 12,
+            "position":"Meio-Campo",
+            "photo":"https://api.sofascore.app/api/v1/player/973887/image"
+        },
+        {
+            "nome": "Tchouameni",
+            "idade":"23",
+            "nation":"França",
+            "numero": 18,
+            "position":"Meio-Campo",
+            "photo":"https://api.sofascore.app/api/v1/player/859025/image"
+        },
+        {
+            "nome": "Vini JR",
+            "idade":"22",
+            "nation":"Brasil",
+            "numero": 20,
+            "position":"Atacante",
+            "photo":"https://api.sofascore.app/api/v1/player/868812/image"
+        },
+        {
+            "nome": "Rodrygo",
+            "idade":"21",
+            "nation":"Brasil",
+            "numero": 21,
+            "position":"Atacante",
+            "photo":"https://api.sofascore.app/api/v1/player/910536/image"
+        },
+        {
+            "nome": "Asensio",
+            "idade":"27",
+            "nation":"Espanha",
+            "numero": 11,
+            "position":"Atacante",
+            "photo":"https://api.sofascore.app/api/v1/player/361004/image"
+        },
+        {
+            "nome": "Benzema",
+            "idade":"35",
+            "nation":"França",
+            "numero": 9,
+            "position":"Atacante",
+            "photo":"https://api.sofascore.app/api/v1/player/3306/image"
+        }
+    ]
+}
